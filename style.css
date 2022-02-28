@@ -1,0 +1,19 @@
+body {
+    color: rgb(230, 125, 203);
+    background: rgb(134, 227, 240);
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_people,#result_people_name,#result_people_accuracy {
+    color: rgb(131, 113, 211);
+}
+
+#camera {
+    border: 2px dashed rgb(247, 228, 61);
+    width: 350px;
+    height: 300px;
+}
